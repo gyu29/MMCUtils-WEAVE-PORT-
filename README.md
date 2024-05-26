@@ -3,7 +3,7 @@
 MMCUtils is a Minecraft mod that provides various utility features for players. It includes functionalities such as key press notifications, and chat enhancements.
 
 ### Functionality
-- Automatically switches to party chat upon entering a designated practice server.
+- Automatically switches to party chat upon entering a party
 - Provides options to automatically send a "gg" message at the end of a match.
 
 ## Installation
