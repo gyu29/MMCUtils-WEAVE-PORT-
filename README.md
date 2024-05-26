@@ -24,3 +24,4 @@ Contributions to MMCUtils are welcome! If you have suggestions for new features,
 
 ## Disclaimer
 FMLNetworkEvent.ClientDisconnectionFromServerEvent event handling, has been removed. Additionally, the height limit rendering logic has been removed.
+I actually also have never tested this because my Weave is currently disfunctinoal
